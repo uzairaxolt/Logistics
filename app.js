@@ -93,7 +93,7 @@ export const App = function() {
     return (
         <NavigationContainer>
           <Stack.Navigator>
-            <Stack.Screen name="Mobile SDK Sample App" component={ContactListScreen} />
+            <Stack.Screen name="Logistics" component={ContactListScreen} />
           </Stack.Navigator>
         </NavigationContainer>
     );
